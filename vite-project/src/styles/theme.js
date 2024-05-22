@@ -1,0 +1,23 @@
+export default {
+  COLORS: {
+      BACKGROUND_900: "#1C1B1E",
+      BACKGROUND_800: "#3E3B47",
+      BACKGROUND_400: "#999591",
+      BACKGROUND_PINK: "#282124",
+
+      BACKGROUND_INPUT: "#262529",
+      COLOR_TEXT_INPUT: "#948F99",
+
+      PINK_GENERAL: "#FF859B",
+      WHITE_TEXT: "#F4EDE8",
+      GRAY_TEXT: "#948F99",
+      GRAY_TEXT_WHITE: "#CAC4CF",
+
+      MARKER: "#0D0C0F",
+
+      BUTTON_TEXT: "#E5E5E5",
+      BUTTON_COLOR: "#312E38",
+
+      WHITE: "#FFFFFF"
+  }
+}
